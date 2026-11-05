@@ -185,12 +185,12 @@ const ContactUs = () => {
 
                 <div className="mb-4">
                   <p className="mb-1" style={{ fontSize: '1rem', color: '#666' }}>Email</p>
-                  <a href="mailto:info@cloudserve.qa" className="no-decoration" style={{ color: '#0B5394', fontWeight: '600', fontSize: '1.1rem' }}>reach@cloudserve.qa</a>
+                  <a href="mailto:reach@cloudserve.qa" className="no-decoration" style={{ color: '#0B5394', fontWeight: '600', fontSize: '1.1rem' }}>reach@cloudserve.qa</a>
                 </div>
 
                 <div className="mb-4">
                   <p className="mb-1" style={{ fontSize: '1rem', color: '#666' }}>Phone</p>
-                  <a href="tel:+97444440000" className="no-decoration" style={{ color: '#0B5394', fontWeight: '600', fontSize: '1.1rem' }}>+00 974 501 922 00</a>
+                  <a href="tel:+00 974 501 922 00" className="no-decoration" style={{ color: '#0B5394', fontWeight: '600', fontSize: '1.1rem' }}>+00 974 501 922 00</a>
                 </div>
 
                 <div className="mb-4">
